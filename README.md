@@ -29,10 +29,10 @@ from sklearn.metrics import accuracy_score
 ![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/4.png)
 
 
-## Contributing :man_technologist:
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Bug / Feature Request :man_technologist:
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Movies-Genre-Classification/issues/new) by including your search query and the expected result.
 
-Please make sure to update tests as appropriate.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Movies-Genre-Classification/issues/new). Please include sample queries and their corresponding results.
 
 ## Follow on a Social Media :busts_in_silhouette:
 - [LinkedIn](https://bit.ly/2Ky3ho6)
