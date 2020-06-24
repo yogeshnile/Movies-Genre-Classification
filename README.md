@@ -20,6 +20,15 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 ```
 
+## ScreenShot :camera_flash:
+![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/1.png) <br>
+  - WordCloud
+<br>
+
+![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/2.png)       ![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/3.png)
+![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/4.png)
+
+
 ## Contributing :man_technologist:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
